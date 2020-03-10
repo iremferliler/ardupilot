@@ -1,0 +1,8 @@
+** Çalışma Ubuntu 16.04 LTS işletim sistemi üzerinde, ArduPilot, dronekit, QgroundControl paketleri yüklenmiş halde yapılmalıdır.**
+
+cd home/ardupilot/ArduCopter
+simvehicle.py
+
+mode GUIDED
+arm throttle
+take off 10
